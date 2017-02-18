@@ -1,3 +1,3 @@
 # hello-world
 第一次使用gtihup
-what
+what 1
